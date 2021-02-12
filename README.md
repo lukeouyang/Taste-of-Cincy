@@ -9,7 +9,6 @@ git pull https://github.com/lukeouyang/Taste-of-Cincy.git
 ```
 ## Screenshots
 ![Screenshot-1](https://raw.githubusercontent.com/lukeouyang/Taste-of-Cincy/master/images/Screenshot-1.png)
-![Screenshot-1](https://raw.githubusercontent.com/lukeouyang/Taste-of-Cincy/master/images/Screenshot-2.png)
 ## Feature
 Taste-of-Cincy is a single-page website for the promotion of "Taste of Cincy" Food Festival 2007.  
 Its features are list below:
